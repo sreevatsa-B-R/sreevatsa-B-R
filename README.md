@@ -18,7 +18,7 @@
 ---
 
 ### :woman_technologist: About Me :
-I am a [Your Role] <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from [Your Location].
+I am a FULL STACK DEVELOPER <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from BENGALURU.
 
 - :telescope: I'm working as a Software Engineer and contributing to frontend and backend for building web applications.
 
