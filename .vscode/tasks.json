@@ -1,0 +1,16 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Preview README",
+			"type": "shell",
+			"command": "echo",
+			"args": [
+				"README.md preview - Open README.md in VS Code preview to see how it looks"
+			],
+			"group": "build",
+			"isBackground": false,
+			"problemMatcher": []
+		}
+	]
+}
